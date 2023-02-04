@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Gokulprasanth S<br>👀 I’m interested in data analytics and machine language<br>🌱 I’m currently learning M.Sc data science<br>📫 How to reach me ---> gokulprasanth0104@gmail.com
+👋 Hi, I’m Gokulprasanth N<br>👀 I’m interested in data analytics and machine language<br>🌱 I’m currently learning M.Sc data science<br>📫 How to reach me ---> gokulprasanth0104@gmail.com
 
 
 ## 🌐 Socials:
